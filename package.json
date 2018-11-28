@@ -1,0 +1,22 @@
+{
+  "name": "mean_test",
+  "version": "0.1.0",
+  "description": "Mean app test",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmcsherry/mean_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markmcsherry/mean_test/issues"
+  },
+  "homepage": "https://github.com/markmcsherry/mean_test#readme"
+}
